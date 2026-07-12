@@ -1,13 +1,13 @@
 <!--
-███████╗██╗  ██╗███╗   ██╗███████╗███████╗███████╗
-██╔════╝╚██╗██╔╝████╗  ██║██╔════╝██╔════╝██╔════╝
-█████╗   ╚███╔╝ ██╔██╗ ██║█████╗  ███████╗███████╗
-██╔══╝   ██╔██╗ ██║╚██╗██║██╔══╝  ╚════██║╚════██║
+███████╗██╗ ██╗███╗ ██╗███████╗███████╗███████╗
+██╔════╝╚██╗██╔╝████╗ ██║██╔════╝██╔════╝██╔════╝
+█████╗ ╚███╔╝ ██╔██╗ ██║█████╗ ███████╗███████╗
+██╔══╝ ██╔██╗ ██║╚██╗██║██╔══╝ ╚════██║╚════██║
 ███████╗██╔╝ ██╗██║ ╚████║███████╗███████║███████║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝
+╚══════╝╚═╝ ╚═╝╚═╝ ╚═══╝╚══════╝╚══════╝╚══════╝
 -->
 
-# 🏆 Código de Afiliado Exness — `xxv8puyog3`
+# 🏆 Código de Afiliado Exness , `xxv8puyog3`
 
 > **Para traders serios que no necesitan bonos. Lo que importa son las condiciones.**
 
@@ -21,20 +21,20 @@
 
 ## 📑 Tabla de Contenidos
 
-1. [¿Por qué Exness no tiene bonos? — La filosofía](#-por-qué-exness-no-tiene-bonos--la-filosofía)
+1. [¿Por qué Exness no tiene bonos? , La filosofía](#-por-qué-exness-no-tiene-bonos--la-filosofía)
 2. [Código de afiliado](#-código-de-afiliado)
 3. [Comparativa de cuentas](#-comparativa-de-cuentas)
 4. [Regulación por entidad](#-regulación-por-entidad)
 5. [Spreads: Exness vs. industria](#-spreads-exness-vs-industria)
 6. [Velocidad de retiro: Exness vs. otros brokers](#-velocidad-de-retiro-exness-vs-otros-brokers)
 7. [Verificación de spreads en terminal](#-verificación-de-spreads-en-terminal)
-8. [FAQ — Preguntas frecuentes](#-faq--preguntas-frecuentes)
+8. [FAQ , Preguntas frecuentes](#-faq--preguntas-frecuentes)
 9. [Aviso de riesgo](#-aviso-de-riesgo)
 10. [Enlaces relacionados](#-enlaces-relacionados)
 
 ---
 
-## 💡 ¿Por qué Exness no tiene bonos? — La filosofía
+## 💡 ¿Por qué Exness no tiene bonos? , La filosofía
 
 > [!NOTE]
 > **Exness NO ofrece bonos de bienvenida.** Esto no es un defecto: es una decisión de modelo de negocio. Mientras otros brokers usan bonos para retener tu capital con requisitos de volumen imposibles, Exness prefiere darte las mejores condiciones de trading desde el primer día.
@@ -57,10 +57,10 @@
 
 ```
 ╔══════════════════════════════════════════════════╗
-║   CÓDIGO: xxv8puyog3                            ║
-║                                                  ║
-║   Úsalo al registrar tu cuenta para acceder      ║
-║   a las condiciones preferenciales de Exness.    ║
+║ CÓDIGO: xxv8puyog3 ║
+║ ║
+║ Úsalo al registrar tu cuenta para acceder ║
+║ a las condiciones preferenciales de Exness. ║
 ╚══════════════════════════════════════════════════╝
 ```
 
@@ -97,7 +97,7 @@
 | **FSC** | Mauricio | Segregación de fondos | Clientes Asia/Global |
 | **CMVM** | Kenia | Regulación local | Clientes África Este |
 
-**Dato clave**: Los fondos de clientes se mantienen en **cuentas segregadas** en bancos de primer nivel (Barclays, Standard Chartered). Exness publica informes financieros auditados **cada mes** — algo que muy pocos brokers hacen.
+**Dato clave**: Los fondos de clientes se mantienen en **cuentas segregadas** en bancos de primer nivel (Barclays, Standard Chartered). Exness publica informes financieros auditados **cada mes** , algo que muy pocos brokers hacen.
 
 ---
 
@@ -151,7 +151,7 @@ mt5.shutdown()
 
 ---
 
-## ❓ FAQ — Preguntas frecuentes
+## ❓ FAQ , Preguntas frecuentes
 
 ### 1. ¿Por qué Exness no da bono de bienvenida?
 
@@ -199,14 +199,14 @@ Sí. Gratuita e **ilimitada** en tiempo. Se recarga automáticamente al llegar a
 
 ```
 ┌─────────────────────────────────────────────────┐
-│  VERIFICACIÓN DE DATOS — Exness                  │
+│ VERIFICACIÓN DE DATOS , Exness │
 ├─────────────────────────────────────────────────┤
-│  Fecha: 2026-07-12                               │
-│  Spreads verificados: ✓                          │
-│  Regulación confirmada: ✓                        │
-│  Retiros instantáneos: ✓                         │
-│  Código activo: xxv8puyog3                       │
-│  Enlaces funcionales: ✓                          │
+│ Fecha: 2026-07-12 │
+│ Spreads verificados: ✓ │
+│ Regulación confirmada: ✓ │
+│ Retiros instantáneos: ✓ │
+│ Código activo: xxv8puyog3 │
+│ Enlaces funcionales: ✓ │
 └─────────────────────────────────────────────────┘
 ```
 
@@ -238,6 +238,6 @@ Sí. Gratuita e **ilimitada** en tiempo. Se recarga automáticamente al llegar a
 
 [Registrar cuenta →](https://aprende-trading.com)
 
-*Exness — Para traders serios que no necesitan bonos.*
+*Exness , Para traders serios que no necesitan bonos.*
 
 </div>
