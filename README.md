@@ -56,12 +56,12 @@
 ## 🔑 Código de afiliado
 
 ```
-╔══════════════════════════════════════════════════╗
-║ CÓDIGO: xxv8puyog3 ║
-║ ║
-║ Úsalo al registrar tu cuenta para acceder ║
-║ a las condiciones preferenciales de Exness. ║
-╚══════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════╗
+║              CÓDIGO: xxv8puyog3                   ║
+║                                                   ║
+║  Úsalo al registrar tu cuenta para acceder         ║
+║  a las condiciones preferenciales de Exness.       ║
+╚═══════════════════════════════════════════════════╝
 ```
 
 **[Registrar cuenta en Exness →](https://aprende-trading.com)**
